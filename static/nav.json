@@ -1,11 +1,13 @@
 [{
-	"_id": "ruanjian",
-	"classify": "软件·社区",
-	"icon": "ti-download",
+    "_id": "yangmaodang", //分类简称
+	"classify": "羊毛党", //分类名称
+    "icon": "ti-flag", //分类图标 基于themify-icons
+    "_id": "yangmaodang", 
+	"classify": "羊毛党", 
+    "icon": "static/icons/yangmaodang.ico", 
 	"sites": [{
 		"name": "0818团",
 		"href": "http://www.0818tuan.com/list-1-0.html",
-		"desc": "0818团",
 		"desc": "0818团，线报网站",
 		"logo": "static/icons/0818tuan.com.ico"
 	},{
@@ -13,7 +15,12 @@
 		"href": "https://www.smzdm.com/jingxuan/",
 		"desc": "一个精选好价，特价商品网站",
 		"logo": "static/icons/smzdm.com.ico"
-	}, {
+	}]
+}, {
+	"_id": "ruanjian",
+	"classify": "软件·社区",
+	"icon": "ti-download",
+	"sites": [{
 		"name": "大眼仔旭",
 		"href": "http://www.dayanzai.me/",
 		"desc": "绿软、汉化软件分享",
