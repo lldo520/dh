@@ -1,7 +1,7 @@
 [{
-    "_id": "yangmaodang", //分类简称
-	"classify": "羊毛党", //分类名称
-    "icon": "ti-flag", //分类图标 基于themify-icons
+    "_id": "yangmaodang", 
+	"classify": "羊毛党", 
+    "icon": "ti-flag", 
     "_id": "yangmaodang", 
 	"classify": "羊毛党", 
     "icon": "static/icons/yangmaodang.ico", 
