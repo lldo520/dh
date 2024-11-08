@@ -13,8 +13,7 @@
 		"desc": "一个精选好价，特价商品网站",
 		"logo": "static/icons/smzdm.com.ico"
 	}]
-    }]
-[{
+}, {
 	"_id": "ruanjian",
 	"classify": "软件·社区",
 	"icon": "ti-download",
