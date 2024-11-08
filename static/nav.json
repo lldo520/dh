@@ -1,7 +1,7 @@
 [{
-    "_id": "yangmaodang", //分类简称
-	"classify": "羊毛党", //分类名称
-    "icon": "static/icons/yangmaodang.ico", //分类图标 基于themify-icons
+    "_id": "yangmaodang", 
+	"classify": "羊毛党", 
+    "icon": "static/icons/yangmaodang.ico", 
 	"sites": [{
 		"name": "0818团",
 		"href": "http://www.0818tuan.com/list-1-0.html",
