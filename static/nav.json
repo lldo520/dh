@@ -1,10 +1,7 @@
 [{
     "_id": "yangmaodang", 
 	"classify": "羊毛党", 
-    "icon": "ti-flag", 
-    "_id": "yangmaodang", 
-	"classify": "羊毛党", 
-    "icon": "static/icons/yangmaodang.ico", 
+    "icon": "ti-wand", 
 	"sites": [{
 		"name": "0818团",
 		"href": "http://www.0818tuan.com/list-1-0.html",
